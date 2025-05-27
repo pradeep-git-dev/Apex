@@ -1,2 +1,2 @@
-Week 1 of Apex Internship:
-Created a sample web page with basic html tags and stylized with css and added a button which displays a alert box when clicked.
+Week 2 of Apex Internship:
+Created a sample web page with a contact form alongside javascript validation and a dynamic todo list manager.
