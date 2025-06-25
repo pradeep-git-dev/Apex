@@ -1,2 +1,3 @@
-Week 1 of Apex Internship:
-Created a sample web page with basic html tags and stylized with css and added a button which displays a alert box when clicked.
+Week 5 of Apex Internship:
+Created a blog site named as 'Blogs and Blogs' with advanced css and javascript.
+
